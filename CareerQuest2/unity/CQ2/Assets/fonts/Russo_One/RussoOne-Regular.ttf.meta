@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 7657a2b1160984d4f90e8ce6a0a5e764
+timeCreated: 1508164465
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Russo One
+  fontNames:
+  - Russo One
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
